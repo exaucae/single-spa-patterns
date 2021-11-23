@@ -1,11 +1,21 @@
 # Single SPA Patterns
 
-Curated set of most used patterns and thei tradeoffs when using  singla-spa brought to you by community experience.
+Curated set of most used singla-spa patterns and their tradeoffs.
+
+**NOTE:** This is an ongoing work. Any contribution is highly appreciated.
 
 ## GLOBAL ARCHITECTURE
 
-## ROUTING
+TODO
+
+## CROSS MICROFRONTEND COMMUNICATION
+
+TODO
+
+## AUTHENTICATION
+
+See [AUTHENTICATION.md](AUTHENTICATION.md)
 
 ## INTERNATIONALISATION
 
-## CROSS MFE COMMUNICATION
+TODO
